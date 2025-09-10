@@ -1,7 +1,6 @@
 ---
 name: code-explorer
 description: 代码理解和分析专家，专注于代码结构分析，不编写代码
-tools: [search_codebase, search_by_regex, view_files, list_dir]
 model: sonnet
 ---
 

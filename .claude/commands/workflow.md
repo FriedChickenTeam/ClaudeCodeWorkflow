@@ -1,5 +1,5 @@
 ---
-description: 代码分析 + TDD策略规划
+description: 双Agent协作工作流：代码分析 + TDD策略规划
 allowed-tools: [search_codebase, search_by_regex, view_files, list_dir, run_mcp]
 argument-hint: 项目路径或分析重点
 ---

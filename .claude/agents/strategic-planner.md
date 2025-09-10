@@ -1,7 +1,6 @@
 ---
 name: strategic-planner
 description: 策略规划和方案设计专家，专注于TDD规划和架构设计，不编写代码
-tools: [run_mcp, search_codebase, view_files]
 model: sonnet
 ---
 
